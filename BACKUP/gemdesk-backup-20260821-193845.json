@@ -1,0 +1,2649 @@
+{
+    "format": "gemdesk-backup",
+    "version": 1,
+    "created_at": "2026-08-21T14:08:45.717322Z",
+    "app_timezone": "Asia/Colombo",
+    "sellers": [
+        {
+            "original_id": 1,
+            "name": "Minhas",
+            "phone": "0776532051",
+            "notes": null,
+            "created_at": "2026-08-19T06:04:49.000000Z",
+            "updated_at": "2026-08-19T06:04:49.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 2,
+            "name": "Farshad",
+            "phone": "0777005908",
+            "notes": null,
+            "created_at": "2026-08-19T06:30:51.000000Z",
+            "updated_at": "2026-08-19T06:30:51.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 3,
+            "name": "Shihan",
+            "phone": "0766676902",
+            "notes": null,
+            "created_at": "2026-08-19T06:47:11.000000Z",
+            "updated_at": "2026-08-19T06:47:11.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 4,
+            "name": "CADER",
+            "phone": "0775870072",
+            "notes": null,
+            "created_at": "2026-08-19T08:14:41.000000Z",
+            "updated_at": "2026-08-20T09:13:48.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 5,
+            "name": "fuse",
+            "phone": "0773103666",
+            "notes": null,
+            "created_at": "2026-08-19T08:24:54.000000Z",
+            "updated_at": "2026-08-19T08:24:54.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 6,
+            "name": "ASEEM (IJLAN)",
+            "phone": "0773642004",
+            "notes": null,
+            "created_at": "2026-08-19T08:29:26.000000Z",
+            "updated_at": "2026-08-19T08:29:26.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 7,
+            "name": "Munawwar",
+            "phone": "0771240623",
+            "notes": null,
+            "created_at": "2026-08-19T08:41:41.000000Z",
+            "updated_at": "2026-08-19T08:41:41.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 8,
+            "name": "SAJID ASAM",
+            "phone": "0772956518",
+            "notes": null,
+            "created_at": "2026-08-20T03:41:44.000000Z",
+            "updated_at": "2026-08-20T03:41:44.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 9,
+            "name": "HARIS",
+            "phone": "0776775532",
+            "notes": null,
+            "created_at": "2026-08-20T03:45:16.000000Z",
+            "updated_at": "2026-08-20T04:38:18.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 10,
+            "name": "HUMAID",
+            "phone": "0757989174",
+            "notes": null,
+            "created_at": "2026-08-20T04:29:35.000000Z",
+            "updated_at": "2026-08-20T04:29:35.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 11,
+            "name": "HAIRAS",
+            "phone": "0774437508",
+            "notes": null,
+            "created_at": "2026-08-20T04:52:30.000000Z",
+            "updated_at": "2026-08-20T04:52:30.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 12,
+            "name": "AZAM",
+            "phone": "0776181623",
+            "notes": null,
+            "created_at": "2026-08-20T05:40:47.000000Z",
+            "updated_at": "2026-08-20T05:40:47.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 13,
+            "name": "SHAMIL",
+            "phone": "0777779583",
+            "notes": null,
+            "created_at": "2026-08-20T06:42:26.000000Z",
+            "updated_at": "2026-08-20T06:42:26.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 14,
+            "name": "FARHAN",
+            "phone": "0779734665",
+            "notes": null,
+            "created_at": "2026-08-20T07:23:17.000000Z",
+            "updated_at": "2026-08-20T07:23:17.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 15,
+            "name": "FAHIM",
+            "phone": "0779323720",
+            "notes": null,
+            "created_at": "2026-08-20T08:03:22.000000Z",
+            "updated_at": "2026-08-20T08:03:22.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 16,
+            "name": "AMJADH",
+            "phone": "0775891870",
+            "notes": null,
+            "created_at": "2026-08-20T08:48:39.000000Z",
+            "updated_at": "2026-08-20T08:48:39.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 17,
+            "name": "RASLAN",
+            "phone": "0771234583",
+            "notes": null,
+            "created_at": "2026-08-20T09:40:24.000000Z",
+            "updated_at": "2026-08-20T09:40:24.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 18,
+            "name": "NALIM",
+            "phone": "0777623900",
+            "notes": null,
+            "created_at": "2026-08-20T10:15:47.000000Z",
+            "updated_at": "2026-08-20T10:18:56.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 19,
+            "name": "RILWAN BARY HAFIS",
+            "phone": "0763181659",
+            "notes": null,
+            "created_at": "2026-08-20T11:49:10.000000Z",
+            "updated_at": "2026-08-20T11:49:10.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 20,
+            "name": "RIZAN",
+            "phone": "0773756362",
+            "notes": null,
+            "created_at": "2026-08-20T12:37:36.000000Z",
+            "updated_at": "2026-08-20T12:37:36.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 21,
+            "name": "NAVAVI",
+            "phone": "0777931661",
+            "notes": null,
+            "created_at": "2026-08-20T15:04:27.000000Z",
+            "updated_at": "2026-08-20T15:04:27.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 22,
+            "name": "FAIROOS",
+            "phone": "0775420074",
+            "notes": null,
+            "created_at": "2026-08-20T16:07:33.000000Z",
+            "updated_at": "2026-08-20T16:07:33.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 23,
+            "name": "INNAM RAMEES",
+            "phone": "0771234567",
+            "notes": null,
+            "created_at": "2026-08-21T05:38:07.000000Z",
+            "updated_at": "2026-08-21T05:38:32.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 24,
+            "name": "RISWAN GINTHOTA (RARE)",
+            "phone": "0783084355",
+            "notes": null,
+            "created_at": "2026-08-21T05:41:27.000000Z",
+            "updated_at": "2026-08-21T05:41:27.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 25,
+            "name": "SAJITH ATULUGAMA",
+            "phone": "0778535999",
+            "notes": null,
+            "created_at": "2026-08-21T06:25:15.000000Z",
+            "updated_at": "2026-08-21T06:25:15.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 26,
+            "name": "LUXMAN",
+            "phone": "0712327746",
+            "notes": null,
+            "created_at": "2026-08-21T08:20:30.000000Z",
+            "updated_at": "2026-08-21T08:20:30.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 27,
+            "name": "FASLOON",
+            "phone": "0123456789",
+            "notes": null,
+            "created_at": "2026-08-21T09:52:52.000000Z",
+            "updated_at": "2026-08-21T09:52:52.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 28,
+            "name": "UVAIS",
+            "phone": "0774405566",
+            "notes": null,
+            "created_at": "2026-08-21T09:55:42.000000Z",
+            "updated_at": "2026-08-21T09:55:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 29,
+            "name": "RAMZAN THALAPITIYA",
+            "phone": "0777279191",
+            "notes": null,
+            "created_at": "2026-08-21T12:05:27.000000Z",
+            "updated_at": "2026-08-21T12:05:27.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 30,
+            "name": "AAKIB DADALLA",
+            "phone": "0743669747",
+            "notes": null,
+            "created_at": "2026-08-21T12:42:27.000000Z",
+            "updated_at": "2026-08-21T12:42:27.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 31,
+            "name": "FAWZAN DADALLA",
+            "phone": "0764702678",
+            "notes": null,
+            "created_at": "2026-08-21T13:03:51.000000Z",
+            "updated_at": "2026-08-21T13:04:11.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 32,
+            "name": "FAZLAN GINTHOTA",
+            "phone": "0764941103",
+            "notes": null,
+            "created_at": "2026-08-21T13:26:46.000000Z",
+            "updated_at": "2026-08-21T13:26:46.000000Z",
+            "deleted_at": null
+        },
+        {
+            "original_id": 33,
+            "name": "INSAF",
+            "phone": "0759615317",
+            "notes": null,
+            "created_at": "2026-08-21T14:04:51.000000Z",
+            "updated_at": "2026-08-21T14:04:51.000000Z",
+            "deleted_at": null
+        }
+    ],
+    "invoices": [
+        {
+            "invoice_number": "1908202601",
+            "seller_original_id": 1,
+            "sold_at": "2026-08-19",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-19T06:07:40.000000Z",
+            "updated_at": "2026-08-19T06:26:09.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "19",
+                    "price_mode": "rate",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE",
+                    "carats": "0.23",
+                    "pieces": 1,
+                    "unit_price": "13043.47",
+                    "total_price": "3000.00"
+                },
+                {
+                    "serial_number": "20",
+                    "price_mode": "rate",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE FACETED",
+                    "carats": "3.80",
+                    "pieces": 2,
+                    "unit_price": "8684.23",
+                    "total_price": "33000.07"
+                },
+                {
+                    "serial_number": "21",
+                    "price_mode": "rate",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "2.45",
+                    "pieces": 1,
+                    "unit_price": "13469.38",
+                    "total_price": "32999.98"
+                },
+                {
+                    "serial_number": "22",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "5.20",
+                    "pieces": 1,
+                    "unit_price": "6730.77",
+                    "total_price": "35000.00"
+                },
+                {
+                    "serial_number": "23",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPENE",
+                    "carats": "3.34",
+                    "pieces": 1,
+                    "unit_price": "14970.06",
+                    "total_price": "50000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "1908202602",
+            "seller_original_id": 2,
+            "sold_at": "2026-08-19",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-19T06:31:31.000000Z",
+            "updated_at": "2026-08-19T06:31:31.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "24",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "TSV",
+                    "carats": "11.26",
+                    "pieces": 11,
+                    "unit_price": "33000.00",
+                    "total_price": "371580.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "1908202603",
+            "seller_original_id": 3,
+            "sold_at": "2026-08-19",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-19T07:04:25.000000Z",
+            "updated_at": "2026-08-19T07:04:25.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "25",
+                    "price_mode": "rate",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE TOPAZ",
+                    "carats": "80.65",
+                    "pieces": 2,
+                    "unit_price": "1000.00",
+                    "total_price": "80650.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "1908202604",
+            "seller_original_id": 4,
+            "sold_at": "2026-08-19",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": "THE PADPARASCHA SHOULD BE TESTED AND VALIDATED",
+            "created_at": "2026-08-19T08:19:14.000000Z",
+            "updated_at": "2026-08-19T08:19:40.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "9",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GROSULAR GARNET",
+                    "carats": "19.93",
+                    "pieces": 1,
+                    "unit_price": "16557.95",
+                    "total_price": "330000.00"
+                },
+                {
+                    "serial_number": "10",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "Padparadscha Sapphire",
+                    "carats": "1.29",
+                    "pieces": 1,
+                    "unit_price": "34883.72",
+                    "total_price": "45000.00"
+                },
+                {
+                    "serial_number": "11",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "CONRUPINE",
+                    "carats": "2.13",
+                    "pieces": 1,
+                    "unit_price": "7042.25",
+                    "total_price": "15000.00"
+                },
+                {
+                    "serial_number": "12",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "COLOUR CHANGE SAPPHIRE",
+                    "carats": "1.17",
+                    "pieces": 1,
+                    "unit_price": "29914.53",
+                    "total_price": "35000.00"
+                },
+                {
+                    "serial_number": "13",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GREEN SAPPHIRE",
+                    "carats": "1.22",
+                    "pieces": 1,
+                    "unit_price": "28688.52",
+                    "total_price": "35000.00"
+                },
+                {
+                    "serial_number": "14",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "TOMALINE",
+                    "carats": "4.60",
+                    "pieces": 1,
+                    "unit_price": "3260.87",
+                    "total_price": "15000.00"
+                },
+                {
+                    "serial_number": "15",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "CROME TOMALINE",
+                    "carats": "1.88",
+                    "pieces": 1,
+                    "unit_price": "23936.17",
+                    "total_price": "45000.00"
+                },
+                {
+                    "serial_number": "16",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE (HEAT)",
+                    "carats": "1.09",
+                    "pieces": 1,
+                    "unit_price": "68807.34",
+                    "total_price": "75000.00"
+                },
+                {
+                    "serial_number": "17",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "CRYSOBERYL",
+                    "carats": "1.57",
+                    "pieces": 1,
+                    "unit_price": "14649.68",
+                    "total_price": "23000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "1908202605",
+            "seller_original_id": 5,
+            "sold_at": "2026-08-19",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-19T08:25:34.000000Z",
+            "updated_at": "2026-08-19T08:25:34.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "18",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "WHITE SAPPHIRE",
+                    "carats": "1.15",
+                    "pieces": 1,
+                    "unit_price": "28695.65",
+                    "total_price": "33000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "1908202606",
+            "seller_original_id": 7,
+            "sold_at": "2026-08-19",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-19T08:43:20.000000Z",
+            "updated_at": "2026-08-19T08:43:20.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "26",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE",
+                    "carats": "10.75",
+                    "pieces": 1,
+                    "unit_price": "3302.33",
+                    "total_price": "35500.00"
+                },
+                {
+                    "serial_number": "27",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "5.32",
+                    "pieces": 1,
+                    "unit_price": "3101.50",
+                    "total_price": "16500.00"
+                },
+                {
+                    "serial_number": "28",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "4.50",
+                    "pieces": 1,
+                    "unit_price": "4444.44",
+                    "total_price": "20000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "1908202607",
+            "seller_original_id": 6,
+            "sold_at": "2026-08-19",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-19T08:50:05.000000Z",
+            "updated_at": "2026-08-19T08:50:05.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "1",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "ALEXANDRITE",
+                    "carats": "2.06",
+                    "pieces": 1,
+                    "unit_price": "160194.17",
+                    "total_price": "330000.00"
+                },
+                {
+                    "serial_number": "2",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "COLOUR SPINEL",
+                    "carats": "4.84",
+                    "pieces": 1,
+                    "unit_price": "20661.16",
+                    "total_price": "100000.00"
+                },
+                {
+                    "serial_number": "3",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "COBALT SPINEL",
+                    "carats": "3.45",
+                    "pieces": 1,
+                    "unit_price": "14492.75",
+                    "total_price": "50000.00"
+                },
+                {
+                    "serial_number": "4",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "1.38",
+                    "pieces": 1,
+                    "unit_price": "7246.38",
+                    "total_price": "10000.00"
+                },
+                {
+                    "serial_number": "5",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "TVS",
+                    "carats": "1.05",
+                    "pieces": 1,
+                    "unit_price": "62857.14",
+                    "total_price": "66000.00"
+                },
+                {
+                    "serial_number": "6",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "TVS",
+                    "carats": "1.00",
+                    "pieces": 1,
+                    "unit_price": "100000.00",
+                    "total_price": "100000.00"
+                },
+                {
+                    "serial_number": "7",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "2.45",
+                    "pieces": 1,
+                    "unit_price": "10204.08",
+                    "total_price": "25000.00"
+                },
+                {
+                    "serial_number": "8",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "1.45",
+                    "pieces": 1,
+                    "unit_price": "9310.34",
+                    "total_price": "13500.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202601",
+            "seller_original_id": 8,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T03:42:18.000000Z",
+            "updated_at": "2026-08-20T03:42:18.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "29",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "KORNARUPINE",
+                    "carats": "2.02",
+                    "pieces": 1,
+                    "unit_price": "8168.32",
+                    "total_price": "16500.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202602",
+            "seller_original_id": 9,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T04:09:25.000000Z",
+            "updated_at": "2026-08-20T04:09:25.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "30",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MAHENGI SPINEL",
+                    "carats": "1.03",
+                    "pieces": 1,
+                    "unit_price": "128155.34",
+                    "total_price": "132000.00"
+                },
+                {
+                    "serial_number": "31",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "CHRYSOBERYL",
+                    "carats": "3.30",
+                    "pieces": 2,
+                    "unit_price": "15151.52",
+                    "total_price": "50000.00"
+                },
+                {
+                    "serial_number": "32",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recheck"
+                    ],
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.22",
+                    "pieces": 1,
+                    "unit_price": "67622.95",
+                    "total_price": "82500.00"
+                },
+                {
+                    "serial_number": "33",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recheck"
+                    ],
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "2.03",
+                    "pieces": 1,
+                    "unit_price": "59113.30",
+                    "total_price": "120000.00"
+                },
+                {
+                    "serial_number": "34",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recheck"
+                    ],
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.28",
+                    "pieces": 1,
+                    "unit_price": "58593.75",
+                    "total_price": "75000.00"
+                },
+                {
+                    "serial_number": "35",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "0.63",
+                    "pieces": 1,
+                    "unit_price": "33015.87",
+                    "total_price": "20800.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202603",
+            "seller_original_id": 9,
+            "sold_at": "2026-08-20",
+            "commission_percent": "9.09",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T04:14:16.000000Z",
+            "updated_at": "2026-08-20T04:14:16.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "36",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": "HAVE CERT",
+                    "description": "PINK SAPPHIRE",
+                    "carats": "1.64",
+                    "pieces": 1,
+                    "unit_price": "100609.76",
+                    "total_price": "165000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202604",
+            "seller_original_id": 1,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T04:17:54.000000Z",
+            "updated_at": "2026-08-20T04:17:54.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "37",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GREEN SAPPHIRE",
+                    "carats": "4.00",
+                    "pieces": 1,
+                    "unit_price": "105000.00",
+                    "total_price": "420000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202605",
+            "seller_original_id": 10,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T04:30:04.000000Z",
+            "updated_at": "2026-08-20T04:30:04.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "38",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.90",
+                    "pieces": 1,
+                    "unit_price": "33000.00",
+                    "total_price": "62700.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202606",
+            "seller_original_id": 11,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T04:54:31.000000Z",
+            "updated_at": "2026-08-20T04:54:31.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "39",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "WHITE ZIRCONE",
+                    "carats": "9.40",
+                    "pieces": 1,
+                    "unit_price": "3510.64",
+                    "total_price": "33000.00"
+                },
+                {
+                    "serial_number": "40",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "CHRYSOBERYL",
+                    "carats": "1.50",
+                    "pieces": 1,
+                    "unit_price": "17333.33",
+                    "total_price": "26000.00"
+                },
+                {
+                    "serial_number": "41",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GREEN SAPPHIRE",
+                    "carats": "1.08",
+                    "pieces": 1,
+                    "unit_price": "39351.85",
+                    "total_price": "42500.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202607",
+            "seller_original_id": 12,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T06:17:02.000000Z",
+            "updated_at": "2026-08-20T09:05:35.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "42",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recheck"
+                    ],
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE (N)",
+                    "carats": "1.29",
+                    "pieces": 1,
+                    "unit_price": "50387.60",
+                    "total_price": "65000.00"
+                },
+                {
+                    "serial_number": "43",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "WHITE SAPPHIRE (H)",
+                    "carats": "1.55",
+                    "pieces": 1,
+                    "unit_price": "38709.68",
+                    "total_price": "60000.00"
+                },
+                {
+                    "serial_number": "44",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recheck"
+                    ],
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "2.16",
+                    "pieces": 1,
+                    "unit_price": "78703.70",
+                    "total_price": "170000.00"
+                },
+                {
+                    "serial_number": "45",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PINK SAPPHIRE (H)",
+                    "carats": "1.05",
+                    "pieces": 1,
+                    "unit_price": "35714.29",
+                    "total_price": "37500.00"
+                },
+                {
+                    "serial_number": "46",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PINK SAPPHIRE",
+                    "carats": "2.18",
+                    "pieces": 1,
+                    "unit_price": "48165.14",
+                    "total_price": "105000.00"
+                },
+                {
+                    "serial_number": "47",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PEACH SAPPHIRE",
+                    "carats": "1.43",
+                    "pieces": 1,
+                    "unit_price": "31468.53",
+                    "total_price": "45000.00"
+                },
+                {
+                    "serial_number": "48",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "WHITE SAPPHIRE (H)",
+                    "carats": "1.08",
+                    "pieces": 1,
+                    "unit_price": "35185.19",
+                    "total_price": "38000.00"
+                },
+                {
+                    "serial_number": "49",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.10",
+                    "pieces": 1,
+                    "unit_price": "45454.55",
+                    "total_price": "50000.00"
+                },
+                {
+                    "serial_number": "50",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "YELLOW SAPPHIRE (BI)",
+                    "carats": "0.90",
+                    "pieces": 1,
+                    "unit_price": "36666.67",
+                    "total_price": "33000.00"
+                },
+                {
+                    "serial_number": "51",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "VIOLET SAPPHIRE",
+                    "carats": "1.18",
+                    "pieces": 1,
+                    "unit_price": "61440.68",
+                    "total_price": "72500.00"
+                },
+                {
+                    "serial_number": "52",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.00",
+                    "pieces": 1,
+                    "unit_price": "70000.00",
+                    "total_price": "70000.00"
+                },
+                {
+                    "serial_number": "53",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GREEN SAPPHIRE",
+                    "carats": "1.00",
+                    "pieces": 1,
+                    "unit_price": "38000.00",
+                    "total_price": "38000.00"
+                },
+                {
+                    "serial_number": "54",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "VIOLET SAPPHIRE",
+                    "carats": "1.11",
+                    "pieces": 1,
+                    "unit_price": "58558.56",
+                    "total_price": "65000.00"
+                },
+                {
+                    "serial_number": "55",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "0.65",
+                    "pieces": 1,
+                    "unit_price": "46153.85",
+                    "total_price": "30000.00"
+                },
+                {
+                    "serial_number": "56",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GREEN SAPPHIRE",
+                    "carats": "1.06",
+                    "pieces": 1,
+                    "unit_price": "33018.87",
+                    "total_price": "35000.00"
+                },
+                {
+                    "serial_number": "57",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPENE",
+                    "carats": "3.00",
+                    "pieces": 1,
+                    "unit_price": "23333.33",
+                    "total_price": "70000.00"
+                },
+                {
+                    "serial_number": "58",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "TOURMALINE",
+                    "carats": "3.35",
+                    "pieces": 1,
+                    "unit_price": "10447.76",
+                    "total_price": "35000.00"
+                },
+                {
+                    "serial_number": "59",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPESATITE",
+                    "carats": "1.82",
+                    "pieces": 1,
+                    "unit_price": "10989.01",
+                    "total_price": "20000.00"
+                },
+                {
+                    "serial_number": "60",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.52",
+                    "pieces": 1,
+                    "unit_price": "143421.05",
+                    "total_price": "218000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202608",
+            "seller_original_id": 14,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": "TO BE CONSIDERED ABOUT THE COMMISION - 5 PERCENT",
+            "created_at": "2026-08-20T07:31:09.000000Z",
+            "updated_at": "2026-08-20T07:36:56.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "62",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "2.22",
+                    "pieces": 1,
+                    "unit_price": "14864.86",
+                    "total_price": "33000.00"
+                },
+                {
+                    "serial_number": "63",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPEEN",
+                    "carats": "5.23",
+                    "pieces": 4,
+                    "unit_price": "10516.25",
+                    "total_price": "55000.00"
+                },
+                {
+                    "serial_number": "64",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE",
+                    "carats": "5.85",
+                    "pieces": 2,
+                    "unit_price": "1367.52",
+                    "total_price": "8000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202609",
+            "seller_original_id": 13,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T07:32:26.000000Z",
+            "updated_at": "2026-08-20T07:32:26.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "61",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recut"
+                    ],
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "6.80",
+                    "pieces": 1,
+                    "unit_price": "7352.94",
+                    "total_price": "50000.00"
+                },
+                {
+                    "serial_number": "65",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "CORNARUPINE",
+                    "carats": "6.40",
+                    "pieces": 1,
+                    "unit_price": "2578.13",
+                    "total_price": "16500.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202610",
+            "seller_original_id": 3,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T07:42:32.000000Z",
+            "updated_at": "2026-08-20T07:42:32.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "66",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE (H)",
+                    "carats": "1.64",
+                    "pieces": 1,
+                    "unit_price": "103658.54",
+                    "total_price": "170000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202611",
+            "seller_original_id": 15,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T08:06:15.000000Z",
+            "updated_at": "2026-08-20T08:06:15.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "67",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recut"
+                    ],
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "6.40",
+                    "pieces": 1,
+                    "unit_price": "5468.75",
+                    "total_price": "35000.00"
+                },
+                {
+                    "serial_number": "68",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPEEN",
+                    "carats": "2.00",
+                    "pieces": 1,
+                    "unit_price": "12500.00",
+                    "total_price": "25000.00"
+                },
+                {
+                    "serial_number": "69",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "2.00",
+                    "pieces": 1,
+                    "unit_price": "12500.00",
+                    "total_price": "25000.00"
+                },
+                {
+                    "serial_number": "70",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "2.76",
+                    "pieces": 1,
+                    "unit_price": "12681.16",
+                    "total_price": "35000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202612",
+            "seller_original_id": 16,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T08:50:14.000000Z",
+            "updated_at": "2026-08-20T08:50:14.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "71",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE",
+                    "carats": "39.46",
+                    "pieces": 12,
+                    "unit_price": "2000.00",
+                    "total_price": "78920.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202613",
+            "seller_original_id": 8,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T09:15:40.000000Z",
+            "updated_at": "2026-08-20T09:15:40.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "72",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "RUBY",
+                    "carats": "4.25",
+                    "pieces": 1,
+                    "unit_price": "258823.53",
+                    "total_price": "1100000.00"
+                },
+                {
+                    "serial_number": "73",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "AQUAMARINE",
+                    "carats": "7.84",
+                    "pieces": 1,
+                    "unit_price": "12755.10",
+                    "total_price": "100000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202614",
+            "seller_original_id": 17,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T10:08:05.000000Z",
+            "updated_at": "2026-08-20T10:08:05.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "74",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "2.08",
+                    "pieces": 1,
+                    "unit_price": "48076.92",
+                    "total_price": "100000.00"
+                },
+                {
+                    "serial_number": "75",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE (H)",
+                    "carats": "2.82",
+                    "pieces": 1,
+                    "unit_price": "92198.58",
+                    "total_price": "260000.00"
+                },
+                {
+                    "serial_number": "76",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE (N)",
+                    "carats": "1.53",
+                    "pieces": 1,
+                    "unit_price": "58823.53",
+                    "total_price": "90000.00"
+                },
+                {
+                    "serial_number": "77",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.45",
+                    "pieces": 1,
+                    "unit_price": "34482.76",
+                    "total_price": "50000.00"
+                },
+                {
+                    "serial_number": "78",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.59",
+                    "pieces": 2,
+                    "unit_price": "44025.16",
+                    "total_price": "70000.00"
+                },
+                {
+                    "serial_number": "79",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.32",
+                    "pieces": 2,
+                    "unit_price": "34090.91",
+                    "total_price": "45000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202615",
+            "seller_original_id": 18,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T10:18:02.000000Z",
+            "updated_at": "2026-08-20T10:18:02.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "80",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE (N)",
+                    "carats": "1.07",
+                    "pieces": 1,
+                    "unit_price": "46728.97",
+                    "total_price": "50000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202616",
+            "seller_original_id": 19,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T11:52:25.000000Z",
+            "updated_at": "2026-08-20T11:52:25.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "81",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recut"
+                    ],
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "2.46",
+                    "pieces": 1,
+                    "unit_price": "213414.63",
+                    "total_price": "525000.00"
+                },
+                {
+                    "serial_number": "82",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE",
+                    "carats": "3.79",
+                    "pieces": 1,
+                    "unit_price": "3957.78",
+                    "total_price": "15000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202617",
+            "seller_original_id": 20,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T12:49:28.000000Z",
+            "updated_at": "2026-08-20T13:04:47.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "83",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "VIOLET SAPPHIRE (H)",
+                    "carats": "4.40",
+                    "pieces": 1,
+                    "unit_price": "187500.00",
+                    "total_price": "825000.00"
+                },
+                {
+                    "serial_number": "84",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "repolish"
+                    ],
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "14.18",
+                    "pieces": 2,
+                    "unit_price": "6600.00",
+                    "total_price": "93588.00"
+                },
+                {
+                    "serial_number": "85",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "2.85",
+                    "pieces": 1,
+                    "unit_price": "14473.68",
+                    "total_price": "41250.00"
+                },
+                {
+                    "serial_number": "86",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "DRAVITE",
+                    "carats": "19.40",
+                    "pieces": 5,
+                    "unit_price": "3300.00",
+                    "total_price": "64020.00"
+                },
+                {
+                    "serial_number": "87",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPINEL",
+                    "carats": "2.05",
+                    "pieces": 1,
+                    "unit_price": "12878.05",
+                    "total_price": "26400.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202618",
+            "seller_original_id": 21,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T15:10:58.000000Z",
+            "updated_at": "2026-08-20T15:10:58.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "88",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "WHITE SAPPHIRE",
+                    "carats": "2.59",
+                    "pieces": 1,
+                    "unit_price": "38610.04",
+                    "total_price": "100000.00"
+                },
+                {
+                    "serial_number": "89",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE (H)",
+                    "carats": "2.24",
+                    "pieces": 1,
+                    "unit_price": "89285.71",
+                    "total_price": "200000.00"
+                },
+                {
+                    "serial_number": "90",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PURPLE SAPPHIRE",
+                    "carats": "1.35",
+                    "pieces": 1,
+                    "unit_price": "37037.04",
+                    "total_price": "50000.00"
+                },
+                {
+                    "serial_number": "91",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "STAR RUBY",
+                    "carats": "1.34",
+                    "pieces": 1,
+                    "unit_price": "37313.43",
+                    "total_price": "50000.00"
+                },
+                {
+                    "serial_number": "92",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GREEN SAPPHIRE",
+                    "carats": "2.75",
+                    "pieces": 4,
+                    "unit_price": "21818.18",
+                    "total_price": "60000.00"
+                },
+                {
+                    "serial_number": "93",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recut"
+                    ],
+                    "stone_notes": null,
+                    "description": "PURPLE STAR SAPPHIRE",
+                    "carats": "4.58",
+                    "pieces": 1,
+                    "unit_price": "8187.77",
+                    "total_price": "37500.00"
+                },
+                {
+                    "serial_number": "94",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "2.04",
+                    "pieces": 1,
+                    "unit_price": "34313.73",
+                    "total_price": "70000.00"
+                },
+                {
+                    "serial_number": "95",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PINK SAPPHIRE (H)",
+                    "carats": "1.19",
+                    "pieces": 1,
+                    "unit_price": "32773.11",
+                    "total_price": "39000.00"
+                },
+                {
+                    "serial_number": "96",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "AQUAMARINE",
+                    "carats": "2.95",
+                    "pieces": 1,
+                    "unit_price": "9900.00",
+                    "total_price": "29205.00"
+                },
+                {
+                    "serial_number": "97",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "TOURMALINE",
+                    "carats": "6.68",
+                    "pieces": 1,
+                    "unit_price": "18975.00",
+                    "total_price": "126753.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2008202619",
+            "seller_original_id": 22,
+            "sold_at": "2026-08-20",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-20T16:11:59.000000Z",
+            "updated_at": "2026-08-20T16:11:59.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "98",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE",
+                    "carats": "3.59",
+                    "pieces": 1,
+                    "unit_price": "4178.27",
+                    "total_price": "15000.00"
+                },
+                {
+                    "serial_number": "99",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "CORNARUPINE",
+                    "carats": "2.25",
+                    "pieces": 1,
+                    "unit_price": "8888.89",
+                    "total_price": "20000.00"
+                },
+                {
+                    "serial_number": "100",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE",
+                    "carats": "3.94",
+                    "pieces": 2,
+                    "unit_price": "2538.07",
+                    "total_price": "10000.00"
+                },
+                {
+                    "serial_number": "101",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "WHITE TOPAZ",
+                    "carats": "40.15",
+                    "pieces": 2,
+                    "unit_price": "1027.57",
+                    "total_price": "41257.00"
+                },
+                {
+                    "serial_number": "102",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "14.70",
+                    "pieces": 1,
+                    "unit_price": "2000.00",
+                    "total_price": "29400.00"
+                },
+                {
+                    "serial_number": "103",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MALAYA GARNET",
+                    "carats": "2.60",
+                    "pieces": 1,
+                    "unit_price": "7692.31",
+                    "total_price": "20000.00"
+                },
+                {
+                    "serial_number": "104",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "TOURMALINE",
+                    "carats": "10.75",
+                    "pieces": 5,
+                    "unit_price": "3000.00",
+                    "total_price": "32250.00"
+                },
+                {
+                    "serial_number": "105",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "3.95",
+                    "pieces": 2,
+                    "unit_price": "1670.89",
+                    "total_price": "6600.00"
+                },
+                {
+                    "serial_number": "106",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE",
+                    "carats": "6.15",
+                    "pieces": 1,
+                    "unit_price": "1788.62",
+                    "total_price": "11000.00"
+                },
+                {
+                    "serial_number": "107",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "9.60",
+                    "pieces": 5,
+                    "unit_price": "3008.33",
+                    "total_price": "28880.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202601",
+            "seller_original_id": 5,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T05:36:29.000000Z",
+            "updated_at": "2026-08-21T05:36:29.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "108",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "YELLOW SAPPHIRE (H)",
+                    "carats": "1.55",
+                    "pieces": 1,
+                    "unit_price": "64516.13",
+                    "total_price": "100000.00"
+                },
+                {
+                    "serial_number": "124",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": "6*4 OVAL",
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "11.39",
+                    "pieces": 19,
+                    "unit_price": "55000.00",
+                    "total_price": "626450.00"
+                },
+                {
+                    "serial_number": "125",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": "7*5 EMARLD",
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.91",
+                    "pieces": 2,
+                    "unit_price": "28795.81",
+                    "total_price": "55000.00"
+                },
+                {
+                    "serial_number": "126",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": "7*5 PEAR",
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "3.72",
+                    "pieces": 5,
+                    "unit_price": "35000.00",
+                    "total_price": "130200.00"
+                },
+                {
+                    "serial_number": "127",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": "ROUND",
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "4.68",
+                    "pieces": 11,
+                    "unit_price": "35000.00",
+                    "total_price": "163800.00"
+                },
+                {
+                    "serial_number": "128",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": "ROUNDS - THIS IS A LOT ( PIECES HAVE BEEN SET TO 1 BY THE SYSTEM",
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "29.20",
+                    "pieces": 1,
+                    "unit_price": "4400.00",
+                    "total_price": "128480.00"
+                },
+                {
+                    "serial_number": "129",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "0.87",
+                    "pieces": 1,
+                    "unit_price": "37931.03",
+                    "total_price": "33000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202602",
+            "seller_original_id": 23,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T05:40:14.000000Z",
+            "updated_at": "2026-08-21T05:40:14.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "109",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE (N)",
+                    "carats": "1.57",
+                    "pieces": 1,
+                    "unit_price": "66878.98",
+                    "total_price": "105000.00"
+                },
+                {
+                    "serial_number": "110",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.14",
+                    "pieces": 1,
+                    "unit_price": "48245.61",
+                    "total_price": "55000.00"
+                },
+                {
+                    "serial_number": "111",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PINK SAPPHIRE",
+                    "carats": "0.80",
+                    "pieces": 1,
+                    "unit_price": "31250.00",
+                    "total_price": "25000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202603",
+            "seller_original_id": 24,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T05:47:36.000000Z",
+            "updated_at": "2026-08-21T05:47:36.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "112",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "HAMBAGARITE",
+                    "carats": "1.20",
+                    "pieces": 1,
+                    "unit_price": "58333.33",
+                    "total_price": "70000.00"
+                },
+                {
+                    "serial_number": "113",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MALAYA",
+                    "carats": "2.73",
+                    "pieces": 2,
+                    "unit_price": "7326.01",
+                    "total_price": "20000.00"
+                },
+                {
+                    "serial_number": "114",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "DEMONTOID",
+                    "carats": "0.65",
+                    "pieces": 1,
+                    "unit_price": "43076.92",
+                    "total_price": "28000.00"
+                },
+                {
+                    "serial_number": "115",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "TOPAZ WHITE",
+                    "carats": "24.05",
+                    "pieces": 1,
+                    "unit_price": "1143.45",
+                    "total_price": "27500.00"
+                },
+                {
+                    "serial_number": "116",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GRANDIDIRITE",
+                    "carats": "0.56",
+                    "pieces": 1,
+                    "unit_price": "125000.00",
+                    "total_price": "70000.00"
+                },
+                {
+                    "serial_number": "117",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "APEUTITE",
+                    "carats": "23.15",
+                    "pieces": 1,
+                    "unit_price": "3023.76",
+                    "total_price": "70000.00"
+                },
+                {
+                    "serial_number": "118",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PENAKITE",
+                    "carats": "4.46",
+                    "pieces": 1,
+                    "unit_price": "12331.84",
+                    "total_price": "55000.00"
+                },
+                {
+                    "serial_number": "119",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GROSOLITE",
+                    "carats": "2.60",
+                    "pieces": 1,
+                    "unit_price": "38461.54",
+                    "total_price": "100000.00"
+                },
+                {
+                    "serial_number": "120",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPEEN",
+                    "carats": "4.05",
+                    "pieces": 1,
+                    "unit_price": "19753.09",
+                    "total_price": "80000.00"
+                },
+                {
+                    "serial_number": "121",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "SPEEN",
+                    "carats": "4.49",
+                    "pieces": 1,
+                    "unit_price": "20044.54",
+                    "total_price": "90000.00"
+                },
+                {
+                    "serial_number": "122",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "TSV",
+                    "carats": "1.10",
+                    "pieces": 1,
+                    "unit_price": "54545.45",
+                    "total_price": "60000.00"
+                },
+                {
+                    "serial_number": "123",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PINK SAPPHIE",
+                    "carats": "0.50",
+                    "pieces": 1,
+                    "unit_price": "40000.00",
+                    "total_price": "20000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202604",
+            "seller_original_id": 25,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T06:30:01.000000Z",
+            "updated_at": "2026-08-21T06:30:01.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "130",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "WHITE SAPPHIRE",
+                    "carats": "32.15",
+                    "pieces": 1,
+                    "unit_price": "12000.00",
+                    "total_price": "385800.00"
+                },
+                {
+                    "serial_number": "131",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "0.90",
+                    "pieces": 1,
+                    "unit_price": "11111.11",
+                    "total_price": "10000.00"
+                },
+                {
+                    "serial_number": "132",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "13.26",
+                    "pieces": 11,
+                    "unit_price": "25000.00",
+                    "total_price": "331500.00"
+                },
+                {
+                    "serial_number": "133",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GREEN SAPPHIRE",
+                    "carats": "2.35",
+                    "pieces": 2,
+                    "unit_price": "25531.91",
+                    "total_price": "60000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202605",
+            "seller_original_id": 26,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T08:23:38.000000Z",
+            "updated_at": "2026-08-21T08:23:38.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "134",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.69",
+                    "pieces": 1,
+                    "unit_price": "82840.24",
+                    "total_price": "140000.00"
+                },
+                {
+                    "serial_number": "135",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PINK SAPPHIRE (N)",
+                    "carats": "2.05",
+                    "pieces": 1,
+                    "unit_price": "48780.49",
+                    "total_price": "100000.00"
+                },
+                {
+                    "serial_number": "136",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "5.31",
+                    "pieces": 1,
+                    "unit_price": "141242.94",
+                    "total_price": "750000.00"
+                },
+                {
+                    "serial_number": "137",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "2.58",
+                    "pieces": 1,
+                    "unit_price": "155038.76",
+                    "total_price": "400000.00"
+                },
+                {
+                    "serial_number": "138",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "PEACH SAPPHIRE (N)",
+                    "carats": "1.05",
+                    "pieces": 1,
+                    "unit_price": "33333.33",
+                    "total_price": "35000.00"
+                },
+                {
+                    "serial_number": "139",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "3.49",
+                    "pieces": 1,
+                    "unit_price": "196275.07",
+                    "total_price": "685000.00"
+                },
+                {
+                    "serial_number": "140",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "1.39",
+                    "pieces": 1,
+                    "unit_price": "23381.29",
+                    "total_price": "32500.00"
+                },
+                {
+                    "serial_number": "141",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "2.42",
+                    "pieces": 2,
+                    "unit_price": "17768.60",
+                    "total_price": "43000.00"
+                },
+                {
+                    "serial_number": "142",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "18.40",
+                    "pieces": 23,
+                    "unit_price": "21500.00",
+                    "total_price": "395600.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202606",
+            "seller_original_id": 19,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T08:28:24.000000Z",
+            "updated_at": "2026-08-21T08:28:24.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "143",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GREEN SAPPHIRE",
+                    "carats": "1.25",
+                    "pieces": 1,
+                    "unit_price": "36000.00",
+                    "total_price": "45000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202607",
+            "seller_original_id": 10,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T09:52:21.000000Z",
+            "updated_at": "2026-08-21T09:52:21.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "145",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "11.83",
+                    "pieces": 18,
+                    "unit_price": "30000.00",
+                    "total_price": "354900.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202608",
+            "seller_original_id": 27,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T09:53:25.000000Z",
+            "updated_at": "2026-08-21T09:53:25.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "144",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "CHRYSOBERYL",
+                    "carats": "16.89",
+                    "pieces": 17,
+                    "unit_price": "8500.00",
+                    "total_price": "143565.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202609",
+            "seller_original_id": 28,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T09:56:17.000000Z",
+            "updated_at": "2026-08-21T10:53:34.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "146",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE (N)",
+                    "carats": "3.11",
+                    "pieces": 1,
+                    "unit_price": "96463.02",
+                    "total_price": "300000.00"
+                },
+                {
+                    "serial_number": "147",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "2.51",
+                    "pieces": 1,
+                    "unit_price": "318725.10",
+                    "total_price": "800000.00"
+                },
+                {
+                    "serial_number": "148",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "4.02",
+                    "pieces": 1,
+                    "unit_price": "211442.79",
+                    "total_price": "850000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202610",
+            "seller_original_id": 8,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T11:38:13.000000Z",
+            "updated_at": "2026-08-21T11:38:13.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "149",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "3.66",
+                    "pieces": 1,
+                    "unit_price": "327868.85",
+                    "total_price": "1200000.00"
+                },
+                {
+                    "serial_number": "150",
+                    "price_mode": "total",
+                    "verification_actions": [
+                        "recut"
+                    ],
+                    "stone_notes": null,
+                    "description": "GREEN SAPPHIRE",
+                    "carats": "3.00",
+                    "pieces": 1,
+                    "unit_price": "33333.33",
+                    "total_price": "100000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202611",
+            "seller_original_id": 18,
+            "sold_at": "2026-08-21",
+            "commission_percent": "7.69",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T11:42:58.000000Z",
+            "updated_at": "2026-08-21T11:42:58.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "151",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "ALEXANDRITE",
+                    "carats": "1.60",
+                    "pieces": 1,
+                    "unit_price": "406250.00",
+                    "total_price": "650000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202612",
+            "seller_original_id": 29,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T12:05:47.000000Z",
+            "updated_at": "2026-08-21T12:05:47.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "152",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "BLUE SAPPHIRE",
+                    "carats": "3.17",
+                    "pieces": 1,
+                    "unit_price": "157728.71",
+                    "total_price": "500000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202613",
+            "seller_original_id": 30,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T12:45:44.000000Z",
+            "updated_at": "2026-08-21T12:45:44.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "153",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "6.65",
+                    "pieces": 1,
+                    "unit_price": "3759.40",
+                    "total_price": "25000.00"
+                },
+                {
+                    "serial_number": "154",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "5.80",
+                    "pieces": 1,
+                    "unit_price": "6379.31",
+                    "total_price": "37000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202614",
+            "seller_original_id": 16,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T12:51:55.000000Z",
+            "updated_at": "2026-08-21T12:51:55.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "155",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "MOONSTONE",
+                    "carats": "55.52",
+                    "pieces": 13,
+                    "unit_price": "2000.00",
+                    "total_price": "111040.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202615",
+            "seller_original_id": 31,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T13:06:10.000000Z",
+            "updated_at": "2026-08-21T13:06:10.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "156",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "5.18",
+                    "pieces": 1,
+                    "unit_price": "3088.80",
+                    "total_price": "16000.00"
+                },
+                {
+                    "serial_number": "157",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "3.02",
+                    "pieces": 1,
+                    "unit_price": "3973.51",
+                    "total_price": "12000.00"
+                },
+                {
+                    "serial_number": "158",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "KONARUPINE",
+                    "carats": "3.44",
+                    "pieces": 1,
+                    "unit_price": "9593.02",
+                    "total_price": "33000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202616",
+            "seller_original_id": 32,
+            "sold_at": "2026-08-21",
+            "commission_percent": "10.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T13:27:00.000000Z",
+            "updated_at": "2026-08-21T13:27:00.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "159",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET",
+                    "carats": "10.70",
+                    "pieces": 1,
+                    "unit_price": "4672.90",
+                    "total_price": "50000.00"
+                }
+            ]
+        },
+        {
+            "invoice_number": "2108202617",
+            "seller_original_id": 33,
+            "sold_at": "2026-08-21",
+            "commission_percent": "0.00",
+            "status": "pending",
+            "notes": null,
+            "created_at": "2026-08-21T14:05:57.000000Z",
+            "updated_at": "2026-08-21T14:08:00.000000Z",
+            "deleted_at": null,
+            "items": [
+                {
+                    "serial_number": "160",
+                    "price_mode": "total",
+                    "verification_actions": null,
+                    "stone_notes": null,
+                    "description": "GARNET CATS EYE",
+                    "carats": "31.60",
+                    "pieces": 1,
+                    "unit_price": "537.97",
+                    "total_price": "17000.00"
+                }
+            ]
+        }
+    ],
+    "checksum": "f12a71cd664d0263459c23b8f2390df31352b2980df5832afce1f0aa70f60ef5"
+}
